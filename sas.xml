@@ -1,0 +1,171 @@
+<?xml version="1.0"?>
+<!DOCTYPE squad SYSTEM "squad.dtd">
+<?xml-stylesheet href="squad.xsl" type="text/xsl"?>
+
+
+<squad nick="S.A.S.">
+
+  <name>DayZ Clan</name>
+
+	<email></email>
+
+	<web></web>
+
+	<picture>sas_logo.paa</picture>
+
+	<title>S.A.S.</title>
+
+
+<member id="3040580" nick="kashTan">
+
+	<name>kashTan</name>
+
+	<email>alek-kash@mail.ru</email>
+
+	<icq>-</icq>
+
+	<remark>Who Dares Wins!</remark>
+
+	</member>
+
+
+<member id="15646217" nick="Centurion">
+
+	<name>Centurion</name>
+
+	<email>sasanid_ua@ukr.net</email>
+
+	<icq>-</icq>
+
+	<remark>Who Dares Wins!</remark>
+
+	</member>
+
+
+<member id="3366852" nick="Legat">
+
+	<name>Legat</name>
+
+	<email>VmacLegat@online.ua</email>
+
+	<icq>-</icq>
+
+	<remark>Who Dares Wins!</remark>
+
+	</member>
+
+
+<member id="5720841" nick="MonKEY">
+
+	<name>MonKEY</name>
+
+	<email>-</email>
+
+	<icq>-</icq>
+
+	<remark>Who Dares Wins!</remark>
+
+	</member>
+
+
+<member id="9000900" nick="Stark">
+
+	<name>Stark</name>
+
+	<email>-</email>
+
+	<icq>-</icq>
+
+	<remark>Who Dares Wins!</remark>
+
+	</member>
+
+
+<member id="13257732" nick="Tomuk">
+
+	<name>Tomuk</name>
+
+	<email>-</email>
+
+	<icq>-</icq>
+
+	<remark>Who Dares Wins!</remark>
+
+	</member>
+
+ 
+<member id="13580553" nick="ShutDown">
+
+	<name>ShutDown</name>
+
+	<email>-</email>
+
+	<icq>-</icq>
+
+	<remark>Who Dares Wins!</remark>
+
+	</member>
+
+
+
+<member id="7081412" nick="krakcrac">
+
+	<name>krakcrac</name>
+
+	<email>-</email>
+
+	<icq>-</icq>
+
+	<remark>Who Dares Wins!</remark>
+
+	</member>
+
+<member id="10725702" nick="Alexander">
+
+	<name>Alexander</name>
+
+	<email>-</email>
+
+	<icq>-</icq>
+
+	<remark>Who Dares Wins!</remark>
+
+	</member>
+
+<member id="12923588" nick="Zloy_Doctor">
+
+	<name>Zloy_Doctor</name>
+
+	<email>-</email>
+
+	<icq>-</icq>
+
+	<remark>Who Dares Wins!</remark>
+
+	</member>
+
+<member id="14787524" nick="Tomas">
+
+	<name>Tomas</name>
+
+	<email>-</email>
+
+	<icq>-</icq>
+
+	<remark>Who Dares Wins!</remark>
+
+	</member>
+
+<member id="14795588" nick="GOST_UA">
+
+	<name>GOST_UA</name>
+
+	<email>-</email>
+
+	<icq>-</icq>
+
+	<remark>Who Dares Wins!</remark>
+
+	</member>
+
+</squad>
